@@ -13,6 +13,7 @@ This will make you understand,
 1. How you can use ConstraintLayout with Jetpack compose.
 2. How you can align and link views within Constraint Layout.
 3. How you can provide height and style to your native component.
+4. How you can maintain states for editable field and radio button.
 
 # Pre Requisites
 1. ConstraintLayout basic knowledge with XML.
